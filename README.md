@@ -21,4 +21,4 @@ You discover a magical tower
 ```
   
 There is also a great tutorial if you'd like to learn more: http://www.crystalcodepalace.com/traceryTut.html  
-This repository is licensed as CC0/Public Domain - do whatever you want with it!
+<b> This repository is licensed as CC0/Public Domain - do whatever you want with it! </b>

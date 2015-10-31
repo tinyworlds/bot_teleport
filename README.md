@@ -1,2 +1,23 @@
-# bot_teleport
-a text bot who teleports you to magical, inspiring places
+Behind the scenes of a Twitter teleportation device
+
+### How does it work?
+- the teleport bot is running using http://cheapbotsdonequick.com/
+- it has several "plots" and several words/sentences to create variations of those "plots"  
+
+#### Example
+```json
+"origin":[#start# #attributes# #places#]
+```
+The hashtags on each side tell the tool to choose a random item of the referenced list.
+For example for #start#, the tool would look up the list called "start" and choose a random item.
+This simple procedure makes the code:
+```json
+"origin":[#start# #attributes# #places#]
+```
+turn into something like this:
+``` 
+You discover a magical tower
+```
+  
+There is also a great tutorial if you'd like to learn more: http://www.crystalcodepalace.com/traceryTut.html  
+This repository is licensed as CC0/Public Domain - do whatever you want with it!

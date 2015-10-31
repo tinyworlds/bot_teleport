@@ -1,5 +1,5 @@
 {
-	"origin": ["#starts# #attributes.a# #places#.\n#thefloor# #decayed# #floorobjects#.\n#openquestion#", "#starts# #attributes.a# #places#.\n#thefloor# #weird# #floorobjects#.\n#openquestion#", "#starts# #attributes.a# #places#.\n#thewall# #weird# #wallobjects#.\n#openquestion#", "#starts# #attributes.a# #places#.\n#theobject# #magical.a# #theobjects#.\n#openquestion#", "#starts# #attributes.a# #places#.\n#thenote# '#notetext#'"],
+	"origin": ["❧\n#starts# #attributes.a# #places#.\n#thefloor# #decayed# #floorobjects#.\n#openquestion#\n☙", "❧\n#starts# #attributes.a# #places#.\n#thefloor# #weird# #floorobjects#.\n#openquestion#\n☙", "❧\n#starts# #attributes.a# #places#.\n#thewall# #weird# #wallobjects#.\n#openquestion#\n☙", "❧\n#starts# #attributes.a# #places#.\n#theobject# #magical.a# #theobjects#.\n#openquestion#\n☙", "❧\n#starts# #attributes.a# #places#.\n#thenote# '#notetext#\n☙'"],
 
 	"starts": ["You see","You're in","You're inside","You're trapped in","You discover","You explore", "Your home is", "You are teleported to"],
 	
@@ -29,4 +29,5 @@
 	"openquestion":["Who lives here?", "What is this place?", "Who may have lived here?", "How did this all get here?", "Why is this all here?", "Why was this place lost?"]
 
 }
+
 

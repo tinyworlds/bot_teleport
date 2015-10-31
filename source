@@ -1,0 +1,32 @@
+{
+	"origin": ["#starts# #attributes.a# #places#.\n#thefloor# #decayed# #floorobjects#.\n#openquestion#", "#starts# #attributes.a# #places#.\n#thefloor# #weird# #floorobjects#.\n#openquestion#", "#starts# #attributes.a# #places#.\n#thewall# #weird# #wallobjects#.\n#openquestion#", "#starts# #attributes.a# #places#.\n#theobject# #magical.a# #theobjects#.\n#openquestion#", "#starts# #attributes.a# #places#.\n#thenote# '#notetext#'"],
+
+	"starts": ["You see","You're in","You're inside","You're trapped in","You discover","You explore", "Your home is", "You are teleported to"],
+	
+	"attributes": ["beautiful", "hidden", "burning", "mystical", "ancient", "colorful", "tiny", "small", "magical", "magical", "overgrown", "destroyed", "lost", "dark","wet", "cold", "forgotten", "foggy"],
+
+	"places": ["manor","castle","attic","cellar","tower","apartment","room","building","house","office","cave","mine", "temple", "cavern", "ruin", "greenhouse", "monastery"],
+	
+	
+	"thefloor":["The floor is filled with", "The floor is covered in", "The ground is covered in"],
+	"decayed":["damaged", "decaying", "lost", "broken", "destroyed", "shattered", "overgrown", "mossy", "ancient", "old"],
+	"floorobjects":["dolls", "crystals", "glass", "windows", "skulls", "clocks", "chains", "books", "toys", "instruments", "tiles", "lamps", "machines", "bottles"],
+	
+	"thewall":["The walls are filled with", "On the walls are", "The walls are covered in", "The ceiling is covered in", "On the ceiling are"],
+	"weird":["weird", "crazy", "crude", "mysterious", "odd", "strange", "eerie", "abnormal", "unnatural", "occult", "cryptic", "miraculous"],
+	"wallobjects":["paintings", "drawings", "notes", "writings", "diagrams", "schematics", "wallpapers"],
+	
+	"theobject":["You see", "In the distance you see", "Oh look, this seems to be", "Hm, this looks like"],
+	"magical":["#weird#", "#decayed#", "magical", "glowing", "floating", "seemingly weightless"],
+	"theobjects":["painting", "drawing", "note", "writing", "plant", "tree", "leaf", "crystal", "clock", "fairy", "book", "firefly"],
+	
+		"thenote":["You find a #writing#, it reads:\n", "You find a #writing# and decide to read it:\n"],
+		"writing":["writing", "note", "piece of paper", "diary entry"],
+	"notetext":["Life does not have to be perfect to be beautiful", "I love the forest", "Add value to peoples lifes", "Nature is magical", "Make art with people you love", "Respect the art you make", "What matters in your life?", "You can do this!", "Nature brings peace to my restless mind", "I believe in you!", "Hope is a waking dream", "If you dream it, you can do it.", "Whatever you are, be a good one", "Everything you can imagine is real", "The journey is my home", "I haven’t been everywhere, but it’s on my list"],
+
+	
+	
+	"openquestion":["Who lives here?", "What is this place?", "Who may have lived here?", "How did this all get here?", "Why is this all here?", "Why was this place lost?"]
+
+}
+

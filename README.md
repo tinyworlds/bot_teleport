@@ -5,13 +5,14 @@ Behind the scenes of a Twitter teleportation device
 - it has several "plots" and several words/sentences to create variations of those "plots"  
 
 #### Example
-```json
+Here is a very simple example "plot":
+```
 "origin":[#start# #attributes# #places#]
 ```
-The hashtags on each side tell the tool to choose a random item of the referenced list.
-For example for #start#, the tool would look up the list called "start" and choose a random item.
+The hashtags on each side tell the tool to choose a random item of a referenced list.
+For example for #start#, the tool would look up the list called "start" and choose a random item out of it.
 This simple procedure makes the code:
-```json
+```
 "origin":[#start# #attributes# #places#]
 ```
 turn into something like this:

@@ -3,22 +3,22 @@
 
 	"starts": ["You see","You're in","You're inside","You're trapped in","You discover","You explore", "Your home is", "You are teleported to"],
 	
-	"attributes": ["beautiful", "hidden", "burning", "mystical", "ancient", "colorful", "tiny", "small", "magical", "magical", "overgrown", "destroyed", "lost", "dark","wet", "cold", "forgotten", "foggy"],
+	"attributes": ["beautiful", "hidden", "burning", "mystical", "ancient", "colorful", "tiny", "small", "magical", "magical", "overgrown", "destroyed", "lost", "dark","wet", "cold", "forgotten", "foggy", "misty", "massive"],
 
-	"places": ["manor","castle","attic","cellar","tower","apartment","room","building","house","office","cave","mine", "temple", "cavern", "ruin", "greenhouse", "monastery", "cabin", "chapel", "library", "church"],
+	"places": ["manor","castle","attic","cellar","tower","apartment","room","building","house","office","cave","mine", "temple", "cavern", "ruin", "greenhouse", "monastery", "cabin", "chapel", "library", "church", "cave system", "underground city", "tomb"],
 	
 	
 	"thefloor":["The floor is filled with", "The floor is covered in", "The ground is covered in"],
 	"decayed":["damaged", "decaying", "lost", "broken", "destroyed", "shattered", "overgrown", "mossy", "ancient", "old"],
-	"floorobjects":["dolls", "crystals", "glass", "skulls", "clocks", "chains", "books", "toys", "instruments", "tiles", "lamps", "machines", "bottles", "shoes"],
+	"floorobjects":["dolls", "crystals", "glass", "skulls", "clocks", "chains", "books", "toys", "instruments", "tiles", "lamps", "machines", "bottles", "shoes", "paintings"],
 	
 	"thewall":["The walls are filled with", "On the walls are", "The walls are covered in", "The ceiling is covered in", "On the ceiling are"],
 	"weird":["weird", "crazy", "crude", "mysterious", "odd", "strange", "eerie", "abnormal", "unnatural", "occult", "cryptic", "miraculous"],
-	"wallobjects":["paintings", "drawings", "notes", "writings", "diagrams", "schematics", "wallpapers", "mirrors"],
+	"wallobjects":["paintings", "drawings", "notes", "writings", "diagrams", "schematics", "wallpapers", "mirrors", "symbols", "plants", "patterns", "crystals"],
 	
 	"theobject":["You see", "In the distance you see", "Oh look, this seems to be", "Hm, this looks like"],
 	"magical":["#weird#", "#decayed#", "magical", "glowing", "floating", "seemingly weightless"],
-	"theobjects":["painting", "drawing", "note", "writing", "plant", "tree", "leaf", "crystal", "clock", "fairy", "book", "firefly", "acorn", "flower"],
+	"theobjects":["painting", "drawing", "note", "writing", "plant", "tree", "leaf", "crystal", "clock", "fairy", "book", "firefly", "acorn", "flower", "mirror", "light", "skull"],
 	
 	"thenote":["You find a #writing#, it reads:\n", "You find a #writing# and decide to read it:\n"],
 	"writing":["writing", "note", "piece of paper", "diary entry"],

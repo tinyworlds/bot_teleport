@@ -1,11 +1,11 @@
 {
 	"origin": ["#starts# #attributes.a# #places#.\n#thefloor# #decayed# #floorobjects#.\n#openquestion#", "#starts# #attributes.a# #places#.\n#thefloor# #weird# #floorobjects#.\n#openquestion#", "#starts# #attributes.a# #places#.\n#thewall# #weird# #wallobjects#.\n#openquestion#", "#starts# #attributes.a# #places#.\n#theobject# #magical.a# #theobjects#.\n#openquestion#", "#starts# #attributes.a# #places#.\n#thenote# '#notetext#'"],
 
-	"starts": ["You see","You're in","You're inside","You're trapped in","You discover","You explore", "Your home is", "You are teleported to"],
+	"starts": ["You see","You're in","You're inside","You're trapped in","You discover","You explore", "Your home is", "You are teleported to", "You hide in", "You live in"],
 	
-	"attributes": ["beautiful", "hidden", "burning", "mystical", "ancient", "colorful", "tiny", "small", "magical", "magical", "overgrown", "destroyed", "lost", "dark","wet", "cold", "forgotten", "foggy", "misty", "massive"],
+	"attributes": ["beautiful", "hidden", "burning", "mystical", "ancient", "colorful", "tiny", "small", "magical", "overgrown", "destroyed", "lost", "dark","wet", "cold", "forgotten", "foggy", "misty"],
 
-	"places": ["manor","castle","attic","cellar","tower","apartment","room","building","house","office","cave","mine", "temple", "cavern", "ruin", "greenhouse", "monastery", "cabin", "chapel", "library", "church", "cave system", "underground city", "lighthouse", "ship"],
+	"places": ["manor","castle","attic","cellar","tower","apartment","room","building","house","office","cave","mine", "temple", "cavern", "ruin", "greenhouse", "monastery", "cabin", "chapel", "library", "church", "cave system", "underground city", "lighthouse", "ship", "underground tunnel", "abbey", "cottage", "underground garden"],
 	
 	
 	"thefloor":["The floor is filled with", "The floor is covered in", "The ground is covered in"],

@@ -26,5 +26,13 @@
 
 	
 	
-	"openquestion":["Who lives here?", "What is this place?", "Who may have lived here?", "How did this all get here?", "Why is this all here?", "Why was this place lost?"]
+	"openquestion":["Who lives here?", "What is this place?", "Who may have lived here?", "How did this all get here?", "Why is this all here?", "Why was this place lost?"],
+
+
+
+	"maybeanswer":["Yeah, maybe.", "Looks like it!", "Hm, yeah. Seems like it."],
+	"someoneanswer":["That someone was you!", "I think it was you!", "Looks like it was you! ;)"],
+	"howanswer":["I don't know, you are the traveler.", "Hm, maybe ask again later.", "Don't worry about it. Sometimes it''s ok not to understand things."],
+	"sorryanswer":["HOW DARE YOU!", "move along", "Aww man, I hate this job."],
+	"greatanswer":["Yup, it's pretty nice.", "It's lovely, isn't it?", "I couldn't agree more."]
 }

@@ -5,20 +5,20 @@
 	
 	"attributes": ["beautiful", "hidden", "burning", "mystical", "ancient", "colorful", "tiny", "small", "magical", "overgrown", "destroyed", "lost", "dark","wet", "cold", "forgotten", "foggy", "misty"],
 
-	"places": ["manor","castle","attic","cellar","tower","apartment","room","building","house","office","cave","mine", "temple", "cavern", "ruin", "greenhouse", "monastery", "cabin", "chapel", "library", "church", "cave system", "underground city", "lighthouse", "ship", "underground tunnel", "abbey", "cottage", "underground garden"],
+	"places": ["manor","castle","attic","cellar","tower","apartment","room","building","house","office","cave","mine", "temple", "cavern", "ruin", "greenhouse", "monastery", "cabin", "chapel", "library", "church", "cave system", "underground city", "lighthouse", "ship", "underground tunnel", "abbey", "cottage", "underground garden", "battleship"],
 	
 	
 	"thefloor":["The floor is filled with", "The floor is covered in", "The ground is covered in"],
 	"decayed":["damaged", "decaying", "lost", "broken", "destroyed", "shattered", "overgrown", "mossy", "ancient", "old"],
-	"floorobject":["doll", "crystal", "glass", "skull", "clock", "chain", "book", "toy", "instrument", "lamp", "machine", "bottle", "shoe", "painting", "statue", "paint brush", "mannequin", "cage"],
+	"floorobject":["doll", "crystal", "glass", "skull", "clock", "chain", "book", "toy", "instrument", "lamp", "machine", "bottle", "shoe", "painting", "statue", "paint brush", "mannequin", "cage", "coffin", "weapon", "television", "telephone", "lightbulb"],
 	
 	"thewall":["The walls are filled with", "On the walls are", "The walls are covered in", "The ceiling is covered in", "On the ceiling are"],
-	"weird":["weird", "crazy", "crude", "mysterious", "odd", "strange", "eerie", "abnormal", "unnatural", "occult", "cryptic", "miraculous"],
-	"wallobject":["painting", "drawing", "note", "writing", "diagram", "schematic", "wallpaper", "mirror", "symbol", "plant", "pattern", "crystal", "fresco", "mosaic"],
+	"weird":["weird", "crazy", "crude", "mysterious", "odd", "strange", "eerie", "abnormal", "unnatural", "occult", "cryptic", "miraculous", "glowing", "overgrown", "ancient"],
+	"wallobject":["painting", "drawing", "note", "writing", "diagram", "schematic", "wallpaper", "mirror", "symbol", "plant", "pattern", "crystal", "fresco", "mosaic", "paint"],
 	
 	"theobject":["You see", "In the distance you see", "Oh look, this seems to be", "Hm, this looks like"],
 	"magical":["#weird#", "#decayed#", "magical", "glowing", "floating", "seemingly weightless"],
-	"theobjects":["painting", "drawing", "note", "writing", "plant", "tree", "leaf", "crystal", "clock", "fairy", "book", "firefly", "acorn", "flower", "mirror", "light", "skull",  "fish", "tophat", "#floorobject#"],
+	"theobjects":["painting", "drawing", "note", "writing", "plant", "tree", "leaf", "crystal", "clock", "fairy", "book", "firefly", "acorn", "flower", "mirror", "light", "skull",  "fish", "tophat", "#floorobject#", "documents"],
 	
 	"thenote":["You find a #writing#, it reads:\n", "You find a #writing# and decide to read it:\n"],
 	"writing":["writing", "note", "piece of paper", "diary entry"],
